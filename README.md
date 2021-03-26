@@ -18,7 +18,7 @@
 ## 🎁 Imagem de como ficou o aplicativo
 
 <h1 align="center">
-  <img alt="Gerador de senhas" title="#Insider2.0" src="Imagens/GeradorDeSenhas.jpg" width=300/>
+  <img alt="Gerador de senhas" title="#Insider2.0" src="src/assets/GeradorDeSenhas.jpg" width=300/>
 </h1>
 
 ## 🎲 Pré-requisitos e como rodar a aplicação
